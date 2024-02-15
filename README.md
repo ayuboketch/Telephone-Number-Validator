@@ -25,7 +25,7 @@ Capturing and interpreting user input demanded meticulous coding. The project ad
 # 💼 Professional Insight:
 Beyond the technical intricacies, this project reflects my commitment to excellence, attention to detail, and problem-solving skills. It serves as a testament to my ability to navigate complexity and deliver solutions that exceed expectations.
 
-🔗 View the Project: Telephone Number Validator
+🔗 View my Profile: www.linkedin.com/in/ayub-oketch-50ba2196
 
 I'm open to opportunities and discussions related to coding, web development, and innovative projects. Let's connect and explore how my skills can contribute to your team or project.
 
